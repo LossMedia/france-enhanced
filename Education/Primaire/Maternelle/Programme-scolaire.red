@@ -1,1 +1,8 @@
-*to redact*
+Note : Les programmes français actuelles sont largement suffisant pour le moment.
+
+TPS Petit section
+...
+Moyenne Section
+...
+Grande Section
+...
