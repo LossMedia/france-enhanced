@@ -1,2 +1,12 @@
-unification de tous les services en un domaine (france.grouv ou france.fr(a))
-Différentation entre les domaines français et domaines gouvernementales français (.fr = site francais, .fra pour les services gouvernementales)
+unification de tous les services en un domaine (france.gouv ou france.fr(a))
+
+Différentation entre les domaines français et domaines gouvernementales français (.fr = site francais, g(ouv)fr/.fra pour les services gouvernementales)
+
+ou
+
+simplifier les sous domaines gouv.fr tel que :
+
+gouv.fr -> Page de redirection vers les autres domaines gfr
+
+citoyen.gouv.fr ou equivalent -> page de gestion via un compte sécurisé et protégé A2F via la carte d'identité (non stocké sur les serveurs afin d'éviter des leaks) afin de payer ses taxes/impots, obtenir ses VISA's, passports etc...
+
